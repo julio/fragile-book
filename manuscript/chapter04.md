@@ -1,8 +1,8 @@
-Estimation
-	• PointsAsUnitsOfTime, ThreePointsIsLikeTowDays
-	• EstimatesConvertToThree
-	• CompareVelocityBetweenTeams
-	• MeasureVelocityDownToTheIndividual
-	• EstimatesAreCommittments
-	• GanttChart
-	• BigUpfrontPlan
+## Estimation
+* PointsAsUnitsOfTime
+* ThreePointsIsLikeTowDays
+* EstimatesConvertToThree
+* CompareVelocityBetweenTeams
+* MeasureVelocityDownToTheIndividual
+* EstimatesAreCommittments
+* GanttChart

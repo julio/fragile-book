@@ -1,6 +1,6 @@
-Ceremonies
-	• StandupTooLong
-	• ReportStatusStandup
-	• DropRetrosToSaveTime
-	• NothingToDemo
-	• SprintZero
+## Ceremonies
+  * StandupTooLong
+  * ReportStatusStandup
+  * DropRetrosToSaveTime
+  * NothingToDemo
+  * SprintZero

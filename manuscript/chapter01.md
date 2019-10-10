@@ -1,11 +1,11 @@
-Agile Interpretation
-	• NoDesign
-	• NoDocumentation
-	• NoInterruptions
-	• KanbanIsMoreAgile, KanbanBecauseScrumIsHard
-	• DevelopSprintsThenTestSprints
-	• KanbanBecauseNoSprints - Julio
-	• AgilityNotAgile
-	• AgileAboutAgile
-	• AgileDoesntWorkForMyTeamBecauseOfBlank
+## Agile Interpretation
+  * NoDesign
+  * NoDocumentation
+  * NoInterruptions
+  * KanbanIsMoreAgile, KanbanBecauseScrumIsHard
+  * DevelopSprintsThenTestSprints
+  * KanbanBecauseNoSprints
+  * AgilityNotAgile
+  * AgileAboutAgile
+  * AgileDoesntWorkForMyTeamBecauseOfBlank
 

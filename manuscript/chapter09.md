@@ -1,6 +1,6 @@
-Cross Function and Dependencies
-	• OperationsTeam
-	• OtherTeamsAreKeepingUsFromAgile
-	• DevelopersCantTest
-	• SiloedTeams
-	• SingleCodeOwner
+## Cross Function and Dependencies
+  * OperationsTeam
+  * OtherTeamsAreKeepingUsFromAgile
+  * DevelopersCantTest
+  * SiloedTeams
+  * SingleCodeOwner
