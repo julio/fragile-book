@@ -18,7 +18,7 @@ This repository contains the book manuscript files, free to read for everyone. Y
 
 * Introduction
 
-* Part I: The Agile Mechanics
+* Part I: The Mechanics
   * [What agile...is not](manuscript/chapter01.md)
   * [Ceremonies](manuscript/chapter02.md)
   * [Roles](manuscript/chapter03.md)
