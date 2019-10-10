@@ -5,7 +5,7 @@
 
 Teams new to agile can sometimes believe that in agile there is no need to do any design. System or otherwise. 
 
-This is then sometimes interpreted as a positive aspect, and sometimes as a negative one. Either one, it cannot be further from the truth.
+This is then sometimes interpreted as a positive aspect, and sometimes as a negative one. Either way, it cannot be further from the truth.
 
 In fact, with agile, design is so important that agile teams are constantly designing.
 
