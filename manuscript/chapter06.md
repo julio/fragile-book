@@ -17,7 +17,7 @@
   * MultiTaskingToGoFaster
   * DelayedBugFixing
   * WorkingTooHardMakesMoreWork
-  * INeedAHero, Heroics
+  * INeedAHero
   * NoDeploymentOnFridays
   * ThrowOverTheWallMyPart
   * WeDoNotKnowWhoOurCustomersAre
