@@ -1,4 +1,5 @@
 # Agile Interpretation
+
 ## No Design
 
 ### Misconception
@@ -27,13 +28,12 @@ Have a brainstorm session, or planning, or a small team offsite, so everyone can
 
 Everytime the answer to the question "would having more detail now, change the cost of the implementation" is "No", the team is designing too much.
 
-
 ## NoDocumentation
 ## NoInterruptions
-## KanbanIsMoreAgile KanbanBecauseScrumIsHard
+## KanbanIsMoreAgile
+## KanbanBecauseScrumIsHard
 ## DevelopSprintsThenTestSprints
 ## KanbanBecauseNoSprints
 ## AgilityNotAgile
 ## AgileAboutAgile
 ## AgileDoesntWorkForMyTeamBecauseOfBlank
-
