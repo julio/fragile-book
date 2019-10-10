@@ -4,3 +4,4 @@
   * DevelopersCantTest
   * SiloedTeams
   * SingleCodeOwner
+  * Monolith
