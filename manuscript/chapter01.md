@@ -28,7 +28,40 @@ Have a brainstorm session, or planning, or a small team offsite, so everyone can
 
 Everytime the answer to the question "would having more detail now, change the cost of the implementation" is "No", the team is designing too much.
 
-## NoDocumentation
+## No Documentation
+
+### Misconception
+
+No Documentation is a little bit like No Design, but it goes beyond it. It goes all the way to not documentating code, processes, and anything else that is not considered "working software".
+
+It comes from the idea that if we are not adding direct value to the customer of hte software, then we should not be working on it.
+
+Some teams go as far as stopping code comments, or even removing existing and perfectly fine comments, in an attempt to be "more agile".
+
+### Why this is an anti-pattern
+
+This is an anti-pattern because though the code ultimately is the real source of truth, it's not accessible to everyone outside the project, and sometimes not even to the team directly involved.
+
+A new team member would have a hard time coming up to speed if the only documentation available was The Code. It's much more practical to have some level of well maintained documentation to be able to communicate with new members, stakeholders, and everyone else who needs the information.
+
+### How to avoid it
+
+Avoiding this gotcha requires some common sense at first, and eventually becomes much more natural.
+
+When starting on documentation, ask yourself if this information can be found somewhere else if so, can we point to it instead? This saves time, and even more importantly, avoids information divergence, where both sources gradually change from each other, sometimes to the point of contradicting each other.
+
+Another technique, more specific to code documentation in the form of comments, is to consider making the code self-documenting. 
+
+For example, rather than the cliché:
+
+var n; // number of users
+
+consider having:
+
+var number_of_users;
+
+In the end, some documentation is going to be desirable, and healthy, where "none" is almost always wrong, and "too much" is hard to gauge. So use your best judgment, and if the team is starting to have tasks or user stories solely devoted to documentation, you will know that you have wondered too far.
+
 ## NoInterruptions
 ## KanbanIsMoreAgile
 ## KanbanBecauseScrumIsHard
