@@ -62,7 +62,7 @@ var number_of_users;
 
 In the end, some documentation is going to be desirable, and healthy, where "none" is almost always wrong, and "too much" is hard to gauge. So use your best judgment, and if the team is starting to have tasks or user stories solely devoted to documentation, you will know that you have wondered too far.
 
-## KanbanBecauseScrumIsHard
+## Kanban Is Easy
 
 ### Misconception
 
