@@ -125,9 +125,42 @@ And how do you know when you need to reach out to such coach, and when it's not 
 
 You know you need it, it the team decides to tweak the process, and no one asked the question.
 
-## NoInterruptions
-## KanbanIsMoreAgile
-## DevelopSprintsThenTestSprints
-## KanbanBecauseNoSprints
-## AgilityNotAgile
-## AgileDoesntWorkForMyTeamBecauseOfBlank
+## No Interruptions
+
+### Misconception
+
+### Why this is an anti-pattern
+
+### How to avoid it
+
+## Develop Sprints Then Test Sprints
+
+### Misconception
+
+### Why this is an anti-pattern
+
+### How to avoid it
+
+## Kanban Because No Sprints
+
+### Misconception
+
+### Why this is an anti-pattern
+
+### How to avoid it
+
+## Agility Not Agile
+
+### Misconception
+
+### Why this is an anti-pattern
+
+### How to avoid it
+
+## Agile Does not Work For My Team Because Of Blank
+
+### Misconception
+
+### Why this is an anti-pattern
+
+### How to avoid it
