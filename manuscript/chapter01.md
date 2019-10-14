@@ -87,7 +87,7 @@ Have a Work In Progress value small enough to guarantee that items have go be cl
 In addition, ensure that the team has the opportunity to improve their process. For example, have a team retrospective every other week, to focus on one or two areas of improvement. Do this enough, and any shortcuts the team has done initially, will start showing its negative effects, and the team will be able to adjust.
 
 
-## AgileAboutAgile
+## Agile About Agile
 
 ### Misconception
 
