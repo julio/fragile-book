@@ -86,10 +86,48 @@ Have a Work In Progress value small enough to guarantee that items have go be cl
 
 In addition, ensure that the team has the opportunity to improve their process. For example, have a team retrospective every other week, to focus on one or two areas of improvement. Do this enough, and any shortcuts the team has done initially, will start showing its negative effects, and the team will be able to adjust.
 
+
+## AgileAboutAgile
+
+### Misconception
+
+This is the notion that agile is not agile, which can be true when teams implement agile by following the rituals without concern for the reason for the rituals.
+
+But imagine that instead of picking the word "Agile", the Agile Manifesto luminaries had chosen the word "Flexible", or "Effective", or "Sensical", or any other word that conveyed what they were trying to convey; a focus on common sense and not being so obsessed with rules.
+
+In that case, teams would now be saying "We are flexible about being Flexible", or some other oxymoron.
+
+### Why this is an anti-pattern
+
+Being agile about agile is an anti-pattern because it immediately shows that the team claiming this, has not yet internalized the reasons behind the practices.
+
+They see it as just more process, and sometimes they are right, it's just more process they were told to follow.
+
+It's important to remember that agile (and its practices) was not invented in a vacuum based on a thought experiment. Instead it was based on obsevation. Analyzing what do the successful teams do to be successful.
+
+They work in time boxed iterations? Let's call it sprints. They have a sole person driving the vision and being the liaison between the developers and the customers? Let's call it the Product Owner.
+
+None of this was "invented", simply "observed".
+
+### How to avoid it
+
+To avoid the "agile about agile" anti-pattern, while avoiding falling in a dogmatic mindset, there is a simple approach.
+
+For any deviation, ask the question "how are we going to compensate for the loss of value that practice brings?"
+
+For example, if the team decides to drop sprints (time-boxed iterations), ask the question:
+
+"How are we going to stay predictable vis-à-vis the business, and guarantee working software at a given cadence, and to always focus on the most important functionality?"
+
+Asking these questions implies a high level of agile maturity, since it means the person asking the question clearly understands what sprints (in this example) are for. I recommend that you have access to someone who deeply understands agile when you chose to deviate from the recommendations.
+
+And how do you know when you need to reach out to such coach, and when it's not necessary?
+
+You know you need it, it the team decides to tweak the process, and no one asked the question.
+
 ## NoInterruptions
 ## KanbanIsMoreAgile
 ## DevelopSprintsThenTestSprints
 ## KanbanBecauseNoSprints
 ## AgilityNotAgile
-## AgileAboutAgile
 ## AgileDoesntWorkForMyTeamBecauseOfBlank
