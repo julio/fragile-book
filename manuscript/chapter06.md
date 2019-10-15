@@ -1,24 +1,47 @@
 # Working Software
+
 ## NoWorkingSoftwareInSprint
+
 ## SprintsAsPhases
+
 ## CliffBurningDown
+
 ## MultiThread
+
 ## MiniWaterfall
+
 ## OnlyInternalCustomers
+
 ## LegacyCode
+
 ## LongReleaseCycles
+
 ## SlowResponse
+
 ## StaticDefinitionOfDone
+
 ## HIPSprints
+
 ## MakeItPerfectTheFirstTime
+
 ## RequirementsKeepChanging
+
 ## NinetyPercentDone
+
 ## SplitUnfinishedWorkForCredit
+
 ## MultiTaskingToGoFaster
+
 ## DelayedBugFixing
+
 ## WorkingTooHardMakesMoreWork
+
 ## INeedAHero
+
 ## NoDeploymentOnFridays
+
 ## ThrowOverTheWallMyPart
+
 ## WeDoNotKnowWhoOurCustomersAre
+
 ## OurCustomersDoNotCare
