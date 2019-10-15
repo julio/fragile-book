@@ -1,7 +1,7 @@
-## Cross Function and Dependencies
-  * OperationsTeam
-  * OtherTeamsAreKeepingUsFromAgile
-  * DevelopersCantTest
-  * SiloedTeams
-  * SingleCodeOwner
-  * Monolith
+# Cross Function and Dependencies
+## OperationsTeam
+## OtherTeamsAreKeepingUsFromAgile
+## DevelopersCantTest
+## SiloedTeams
+## SingleCodeOwner
+## Monolith

@@ -1,9 +1,9 @@
-## Artifacts
-  * OpaqueProductBacklog
-  * HiddenProductBacklog
-  * DisguisedEngineeringTasks
-  * UngroomedProductBacklog
-  * OneDefinitionOfDonePerStory
-  * DefinitionOfDonePerPhase
-  * SharedToDoList
-  * BacklogOrderedByTaskNotValue
+# Artifacts
+## OpaqueProductBacklog
+## HiddenProductBacklog
+## DisguisedEngineeringTasks
+## UngroomedProductBacklog
+## OneDefinitionOfDonePerStory
+## DefinitionOfDonePerPhase
+## SharedToDoList
+## BacklogOrderedByTaskNotValue

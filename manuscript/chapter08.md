@@ -1,5 +1,5 @@
-## Team Dynamics
-  * SafariAsStaffAugmentation
-  * HorizontalTeam
-  * MissingFunctions
-  * SelfOrganizingMeansSelfForming
+# Team Dynamics
+## SafariAsStaffAugmentation
+## HorizontalTeam
+## MissingFunctions
+## SelfOrganizingMeansSelfForming

@@ -1,7 +1,7 @@
-## Scale
-  * NonSynchronzedSprints
-  * SiloedTeams
-  * NoGroupProductOwner
-  * NoConnectionToRoadmap
-  * NoTimeForDemos
-  * ClosedSource
+# Scale
+## NonSynchronzedSprints
+## SiloedTeams
+## NoGroupProductOwner
+## NoConnectionToRoadmap
+## NoTimeForDemos
+## ClosedSource

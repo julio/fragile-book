@@ -1,8 +1,8 @@
-## Estimation
-* PointsAsUnitsOfTime
-* ThreePointsIsLikeTowDays
-* EstimatesConvertToThree
-* CompareVelocityBetweenTeams
-* MeasureVelocityDownToTheIndividual
-* EstimatesAreCommittments
-* GanttChart
+# Estimation
+## PointsAsUnitsOfTime
+## ThreePointsIsLikeTowDays
+## EstimatesConvertToThree
+## CompareVelocityBetweenTeams
+## MeasureVelocityDownToTheIndividual
+## EstimatesAreCommittments
+## GanttChart
