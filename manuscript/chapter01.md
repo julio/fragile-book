@@ -129,9 +129,27 @@ You know you need it, it the team decides to tweak the process, and no one asked
 
 ### Misconception
 
+The notion that when the team is agile, they should never be interrupted comes from a good sentiment, to keep the team as focused as possible. At the same time, if that doesn't feel, well, agile, it's because it's not.
+
+It's a question of degree. Should we allow the team to be bombarded with new requests several times a day, "because we are agile", or should we not talk to anyone from the team unless it's Planning time?
+
+The truth is somewhere in the middle.
+
 ### Why this is an anti-pattern
 
+This is an anti-pattern because at one end, the team is not agile at all, not being flexible about new realities which is the whole point of agile; to be be able to adapt to the real world. If the team cannot do this, perhaps it's an indication of something else going on. Perhaps stories are too big, not enough test? Deployments not frequent enough? Team not working as a team? 
+
+But if the team is "too" agile, are they able to be predictable or are they thrashing? Are there signs of burnout?
+
 ### How to avoid it
+
+Since the truth is somewhere between too agile and too rigid, we need a mechanism to know when we are following rules instead of being adaptable.
+
+A simple enough technique is to have a goal for each sprint. For example, to add users to sign up and log in. Then any new requests that don't immediately align with that goal should postponed to a future sprint.
+
+And if the new request really must be addressed despite conflicting with the sprint goal, then suggest to abort the sprint, re-plan and go from there.
+
+This is dramatic enough that often cooler heads prevail and if possible, the new work is pushed out. And if not, and it's rare enough, then we can be agile about a deviation here and there.
 
 ## Develop Sprints Then Test Sprints
 
