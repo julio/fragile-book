@@ -155,9 +155,21 @@ This is dramatic enough that often cooler heads prevail and if possible, the new
 
 ### Misconception
 
+This is when teams alternate development and test sprints. Maybe a sprint or two worth of adding value, followed by a sprint, typically just one, dedicated to test the work that was just completed.
+
+But if work was not tested, was it really completed? The answer is that no, it was not, and the team (and their customers, including the business) benefit from doing less but better, or even from extending the duration of their sprints.
+
 ### Why this is an anti-pattern
 
+The goal is to have working software by the end of the sprint, as a mechanism for rapid feedback. If the customer's feedback is that the software is not working, trust will erode, with all the negative consequences.
+
 ### How to avoid it
+
+Avoid this anti-pattern with two simple techniques.
+
+1) If it takes one sprint to develop and one sprint to test, double the duration of the sprint, and do both, development and testing, during the same sprint. The team will be able to do more this way also.
+
+2) Reduce the scope. Instead of implemeting 10 features, then have a sprint that tests the 10 features, keep the sprints the same, but do and test 5 features. Then adjust accordingly.
 
 ## Kanban Because No Sprints
 
