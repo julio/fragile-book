@@ -219,6 +219,29 @@ It's important that your team is getting rapid feedback, learning often, and ada
 
 ### Misconception
 
+I must admit that this is both the most common misconception about agile, and also the one I enjoy debunking the most. So you could say I'm lucky.
+
+This is the notion that agile, yes, it works...for other teams and projects, but not for my team. "What we do is too special for agile".
+
+But why would best practices that were the reasons for successful projects, not work in your case?
+
+Why would having working software on a cadence, regular feedback from customers, well defined work items with clear end goals, not work for your project?
+
+The reason, once again, is probably because you have seen too many agile projects go fragile by their rigidity. The rituals, once again.
+
 ### Why this is an anti-pattern
 
+This sentiment is dangerous because it gives the team a really good reason to not attempt to follow certain practices? 
+
+Agile is difficult to do, it's often counter intuitive, and it certainly requires strong discipline. At least until it becomes second nature to the team.
+
 ### How to avoid it
+
+Don't adopt all the practices at once. For example, start with retrospectives. Can your team benefit from getting together with the stakeholders perhaps once a month, and discuss what we could do better next time, and what we should stop doing?
+
+How about demoing to the rest of the company the worked that got done each month or so?
+
+How about having a backlog with the work that needs to be done, and having it prioritized so everyone knows what's next.
+
+Do enough of these practices, adopting one at the time, and you will be doing agile, even though the team was convinced that for this type of project, it could not work.
+
