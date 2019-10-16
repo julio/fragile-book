@@ -194,14 +194,26 @@ Just like we wouldn't want to order a meal at a restaurant and hear that it will
 Try to start something of value to someone outside the team truly completed and delivered by the time the sprint completes.
 
 It doesn't have to be everything. You can start small. Try a feature or two, from start to finish in a single sprint. Try it for several sprints, see how much better that works. Then try more features, perhaps most of them. 
- 
+
 ## Agility Not Agile
 
 ### Misconception
 
+"Agile is dead, long live agility". 
+
+Clearly this is about mis-application of agile, and how many teams and companies followed the rituals by the book, did not see much improvement, and agreed that the problem is the process, and that the mindset is worth preserving.
+
 ### Why this is an anti-pattern
 
+It's just a word. When agility becomes the status quo, we will be looking for yet another word.
+
 ### How to avoid it
+
+Try to see where the resistance comes from. Since often it's about rituals and dogma, take it as a lighthearted way to say that the core principles are more important than following steps exactly (which is true), have a laugh and move on.
+
+Ensure that your team understands the reason behind the principles, and even the practices, and ignore what labels they have attached to them.
+
+It's important that your team is getting rapid feedback, learning often, and adapting to those learnings. What that process is called should not be a deal breaker.
 
 ## Agile Does not Work For My Team Because Of Blank
 
