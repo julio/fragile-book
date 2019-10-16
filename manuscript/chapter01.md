@@ -171,14 +171,30 @@ Avoid this anti-pattern with two simple techniques.
 
 2) Reduce the scope. Instead of implemeting 10 features, then have a sprint that tests the 10 features, keep the sprints the same, but do and test 5 features. Then adjust accordingly.
 
-## Kanban Because No Sprints
+## No Sprints
 
 ### Misconception
 
+This anti-pattern is based on Scrum and its sprint practice. Sprints of course, are another name for time-boxed iterations.
+
+These time-boxed iterations can sometimes appear as unnecessary process, designed to keep an eye on the team and ensure they are not slacking off.
+
+And certainly, sometimes that is how sprints are sometimes used, as a management tactic.
+
+But sprints provide a real benefit to the team. When there are no sprints, or at least, no real time-boxes, it becomes increasingly difficult to deliver working software in a predictable and regular way.
+
 ### Why this is an anti-pattern
+
+This is an anti-pattern because having open-ended delivery dates is an anti-pattern. Even in "real" life this is true. 
+
+Just like we wouldn't want to order a meal at a restaurant and hear that it will take the time it will take, minutes, hours, or days, the business, and the team themselves, should also not be satisfied with the open-endedness of the No Sprints approach.
 
 ### How to avoid it
 
+Try to start something of value to someone outside the team truly completed and delivered by the time the sprint completes.
+
+It doesn't have to be everything. You can start small. Try a feature or two, from start to finish in a single sprint. Try it for several sprints, see how much better that works. Then try more features, perhaps most of them. 
+ 
 ## Agility Not Agile
 
 ### Misconception
