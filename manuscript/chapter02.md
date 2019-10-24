@@ -1,6 +1,6 @@
 # Ceremonies
 
-## StandupTooLong
+## Standup Too Long
 
 ### Fragile Pattern
 
@@ -22,7 +22,7 @@ Keep the stand-ups focused. No more than a minute per person. Ensure that everyo
 
 Since standing up for long periods of time no longer hurts in this era of height-adjustable desks, try something different. Whomever speaks stands on one foot for example. Or have the stand-up in the parking lot during winter time. In other words, give the team an incentive to stay focused, yet informative.
 
-## ReportStatusStandup
+## Report Status Standup
 
 ### Fragile Pattern
 
@@ -52,7 +52,35 @@ At this point, rather than a team, this is an indication that we are listening f
 
 Instead of focusing on activities (working on feature X, tested thing Y), instist on asking for what was *accomplished* yesterday, and what each person plans on *accomplishing* today. The focus on accomplishements rather than activities, will even gradually change how teams see the meeting. They will move from seeing it as a way to start the day by proving to the boss that we have been busy, to a way to plan as a team how we are going to complete the work we set up to.
 
-## DropRetrosToSaveTime
+## Drop Retros To Save Time
+
+### Fragile Pattern
+
+If your team wants to take it slow and perhaps only adopt a single practice, make it the Retrospectives. In other words, the retrospective is the practice that has the most value. The one from where all other best practices can be derived.
+
+### Why this is fragile
+
+Dropping retrospectives to save time is like skipping car maintenance to save time (or money). It's a question of time before it catches up with the team.
+
+The team does not have the opportunity for a focused conversation to reflect about the areas that are working well, and the areas that need to improve.
+
+### How to detect it
+
+When teams stop showing up is a solid sign, or if participation is low. The value of this ceremony drops dramatically when folks do not participate, and sooner or later (probably sooner), it's decided to drop it from the calendar "because we have real work to do".
+
+If that happens, and the team is in an amazing place already, you might be able to leverage the good practices already in place, but like with cars and maintenance, it won't last forever.
+
+### How to avoid it
+
+Perhaps do fewer retros, every other cycle for example. Perhaps cut the time in half. Insist on everyone participating, and ask everyone to bring at least one area of improvement.
+
+Keep the meeting focused on "what worked" and "what did not work", and avoid discussing solutions until all the topics have been covered.
+
+Once that's done, have each person vote for the top 3 topics, count the votes, and discuss the topic with the most votes and nothing else.
+
+If there's time, tackle the second most voted item, etc.
+
+Ensure there are action items and a reasonable expectation for the top items to be resolved before next time the team meets.
 
 ## NothingToDemo
 
