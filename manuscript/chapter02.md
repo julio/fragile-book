@@ -82,6 +82,31 @@ If there's time, tackle the second most voted item, etc.
 
 Ensure there are action items and a reasonable expectation for the top items to be resolved before next time the team meets.
 
-## NothingToDemo
+## Nothing To Demo
+
+### Fragile Pattern
+
+When the team frequently claims that there is nothing to demo this time, it's a solid indication that the team is not able to produce working software for each cycle. This is not a problem if it happens once in a while, rather rarely. After all the world is not a perfect place.
+
+### Why this is fragile
+
+When the team is not producing working software on the vast majority of the cycles, they won't be as likely to get feedback from their users and stakeholders. Afterall, their users have nothing tangible to comment on.
+
+Every day, week, and month that passes without feedback, the probably of deviating from the actual need, and not the stated need, shoots up.
+
+And if the team deviates enough from the actual need, it will be that much hard to self-correct, and therefore to be agile about customer needs.
+
+### How to detect it
+
+Have a list of items open, completed, and demoed. If the number of demoed items is much smaller than the number of open or completed items, you know that either the team is not able to complete work, or not able to demo it.
+
+Either way, you will want to identify this quickly, so you can help the team in case they are deviating too far off the best solution.
+
+### How to avoid it
+
+Schedule demos at the end of each iteration, and insist on demos. Make sure that as a stakeholder of the outcomes of the team, you have had a chance to steer the team towards new needs, give them feedback when necessary.
+
+These changes and suggestions will be small enough that the team can quickly incorporate them in the next iteration. The team can then be much more agile as changes come in.
+
 
 ## SprintZero
