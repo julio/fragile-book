@@ -110,3 +110,27 @@ These changes and suggestions will be small enough that the team can quickly inc
 
 
 ## SprintZero
+
+### Fragile Pattern
+
+Start a new project with a Sprint Zero. A sprint zero is a preparation sprint, a sprint that is going to be different from the other sprints, where working software is not expected. Instead the team works on infrastructure, design, planning, continuous integration, but no software.
+
+### Why this is fragile
+
+This is not the most fragile of the patterns, and especially if it really is *one* sprint zero. What's more common though, is that one sprint zero turns into 2, then 3, then 5, etc.
+
+In the meantime, there is a lot of infrastructure but very little working software, and more importantly, the opportunity to receive feedback from external stakeholders.
+
+### How to detect it
+
+If there is already a backlog (which is a step in the right direction) but the backlog is very engineering centric, with work items that provide no direct value to anyone outside the team, then you are looking at a sprint zero type of approach.
+
+### How to avoid it
+
+Spend a little more time planning than the it's usual. Pehaps even a day, instead of just an hour or two.
+
+During that mega planning, the team should identify work items that when completed by the end of the iteration, would give the team the opportunity to collect feedback from external consumers.
+
+These work items are not throw away work, but instead work that serves as learning opportunities. For each work item, especially in the beginning, we should be able to answer the question "what are we going to learn when we are done with this?".
+
+Instead of "set up the ci/cd system", try "add feature x", and make ci/cd one of the tasks for feature x. This will keep the focus on the value added by feature x, instead of focusing on the steps to get there.
