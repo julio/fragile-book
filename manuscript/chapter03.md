@@ -27,6 +27,30 @@ Ideally have someone who is a Product Manager already to play the role of the Pr
 
 ## ManyPOs
 
+### The pattern
+
+"We don't have just one person to act as the product owner"
+
+Often the reason for this is the complexity of the product, other times it's the lack of resources, and other times it's the the distributed aspect of the team.
+
+### Why this is fragile
+
+Unless the individuals acting as product owners are in perfect harmony every minute of the day, or at least, whenever a decision is needed, or a question needs an answer, or something needs prioritizing, then having more than one product owner is going to slow down the team.
+
+Inevitably they are going to contradict each other, and at the very least ask for more time before they can agree together on the right course of action.
+
+This extra necessary is considered waste, and something to attempt to eliminate in order to enable the team to run as fast as they can.
+
+### How to strengthen it
+
+Bring this up during a retrospective, that hopefully all product owners also attend, and insist on a single Product Owner. Make sure to clarify that the reason for it is so the teamn ca deliver faster. Document any examples when the team was slowed down for lack of single Product Ownership.
+
+The "new" Product Owner should be empowered to make the right calls, either on their own, or after consulting with the right stakeholders. Ultimately, it should abundantly clear to the team, that the Product Owner is the one in charge of representing the customers of the product, and it is their call, and not a committee's call. This is even if behind the scenes there is a commmittee (see #ProxyPO)
+
+### See also
+
+#ProxyPO, #NoPO
+
 ## ProxyPO, POListTaker
 
 ## ScrumMasterAsMeetingCoordinator
