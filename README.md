@@ -1,4 +1,4 @@
-# Don't let your agile become fragile
+# Don't let your agile go fragile
 
 The complete collection of agile gotchas, and how to avoid them.
 
