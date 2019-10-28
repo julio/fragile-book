@@ -51,7 +51,37 @@ The "new" Product Owner should be empowered to make the right calls, either on t
 
 #ProxyPO, #NoPO
 
-## ProxyPO, POListTaker
+## ProxyPO
+
+### The pattern
+
+The Product Owner does not actually own the product, its scope, its priorities, its vision, and everything else an owner would own.
+
+Instead, the Product Owner is one the team on behalf of sometone else who acts as the real Product Owner.
+
+### Why this is fragile
+
+Not having an actual Product Owner, and simply a Proxy, will slow down the team, with the role devolving quickly into a Project Manager role.
+
+A dedicated Project Manager is itself a fragile pattern, as the best practice is to have the team, collectively, with the help of the process itself, to act as the "virtual" project manager.
+
+In practice, and the reason why a Proxy role slows down the team, is because the feedback loops tend to grow in length.
+
+When it could take a matter of seconds to clarify a priority question during planning, for example, it might now take hours if not days, for the Proxy to get agreement from the actual Product Owner.
+
+In addition, the Proxy it not necessarily meeting with actual and potential customers, leavingt that task to the actual Owner, and making it necessary for both Proxy and Owner to reconcile often. This is another source of waste.
+
+### How to strengthen it
+
+The first step, especially if Proxy and Owner have to be two different people, is to enforce that both are perfectly aligned in terms of mission, vision, priorities, etc.
+
+For that, both should meed daily and sync up.
+
+Ideally, and because no perfect harmony will ever be as good as a single owner, see if your team can delegate more of the ownership to the acting Owner, and in time, make the Proxy a real Owner.
+
+This might mean training, culture change more based on trust and experimentation, the scope for the owner (more or fewer teams, depending on the case), and eventually get to the point where the person acting as the Product Owner is empowered to play the role fully.
+
+## POListTaker
 
 ## ScrumMasterAsMeetingCoordinator
 
