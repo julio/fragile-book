@@ -10,17 +10,17 @@ Stand-ups, also known by their other name, scrum, are the team's opportunity to 
 
 This alignment can take longer than 15 minutes, but it rarely requires everyone on the team to be present to figure it out. And so the recommended guideline is for each person to share with everyone else what they could complete since last time they met, what they are planning to accomplish today, what is blocking them, and how expect to make progress.
 
-### Why this is an anti-pattern
-
 When stand-ups systemically take too long, it's natural for team members to tune out or even stop attending. At that point the team is no longer working as a team, but as a group of individuals reporting on the fact that they have been busy and deserve their paycheck.
 
 Instead of a team of 6 people (for example), where when one person is in trouble, the whole team is in trouble, long stand-ups are a sign that we now have a 6 teams of one person, where other people's problems are not anyone else's problems.
 
-### How to avoid it
+### How to recognize it
 
 Keep the stand-ups focused. No more than a minute per person. Ensure that everyone now knows what everyone else's challenges are, let them organize their day based on the new information, and reassess the next day.
 
 Since standing up for long periods of time no longer hurts in this era of height-adjustable desks, try something different. Whomever speaks stands on one foot for example. Or have the stand-up in the parking lot during winter time. In other words, give the team an incentive to stay focused, yet informative.
+
+### What to do
 
 ## Report Status Standup
 
@@ -34,21 +34,19 @@ Daily is self-explanatory, and scrum will feel more familiar to rugby fans. A (r
 
 Daily standup is a reasonable name, but it focuses more on how the participants are supposed to stand (up) during the meeting, which has its own reasons (to keep the meeting short) but nowhwere as interesting as to indicating the point of the meeting.
 
-### Why this is an anti-pattern
-
 This is an anti-pattern because it does not help the team work as a team. You want the team to be pulling in the same direction, and often the team members need to work together to accomplish the same goal.
 
 When they are simply reporting status (which can be as effectively done by posting on a message board), each member is simply waiting for their turn to speak, not really interested in listening to the other members, and certainly not seeing the other members' struggle as their own.
 
 At this point, rather than a team, this is an indication that we are listening from a group of people, who happen to work in similar areas.
 
-### How to detect it
+### How to recognize it
 
 - Each person talks to the person in charge, instead of to each other
 - If someone is struggling, the other members do not offer to drop what they are working on, to help the person. Especially important if it the struggling person is working on a higher priority.
 - While members wait, and especially after they are done reporting, they appear checked out, and just waiting for the meeting to be over so they can go back to their desks.
 
-### How to avoid it
+### What do do
 
 Instead of focusing on activities (working on feature X, tested thing Y), instist on asking for what was *accomplished* yesterday, and what each person plans on *accomplishing* today. The focus on accomplishements rather than activities, will even gradually change how teams see the meeting. They will move from seeing it as a way to start the day by proving to the boss that we have been busy, to a way to plan as a team how we are going to complete the work we set up to.
 
@@ -58,19 +56,17 @@ Instead of focusing on activities (working on feature X, tested thing Y), instis
 
 If your team wants to take it slow and perhaps only adopt a single practice, make it the Retrospectives. In other words, the retrospective is the practice that has the most value. The one from where all other best practices can be derived.
 
-### Why this is fragile
-
 Dropping retrospectives to save time is like skipping car maintenance to save time (or money). It's a question of time before it catches up with the team.
 
 The team does not have the opportunity for a focused conversation to reflect about the areas that are working well, and the areas that need to improve.
 
-### How to detect it
+### How to recognize it
 
 When teams stop showing up is a solid sign, or if participation is low. The value of this ceremony drops dramatically when folks do not participate, and sooner or later (probably sooner), it's decided to drop it from the calendar "because we have real work to do".
 
 If that happens, and the team is in an amazing place already, you might be able to leverage the good practices already in place, but like with cars and maintenance, it won't last forever.
 
-### How to avoid it
+### What to do
 
 Perhaps do fewer retros, every other cycle for example. Perhaps cut the time in half. Insist on everyone participating, and ask everyone to bring at least one area of improvement.
 
@@ -88,21 +84,19 @@ Ensure there are action items and a reasonable expectation for the top items to 
 
 When the team frequently claims that there is nothing to demo this time, it's a solid indication that the team is not able to produce working software for each cycle. This is not a problem if it happens once in a while, rather rarely. After all the world is not a perfect place.
 
-### Why this is fragile
-
 When the team is not producing working software on the vast majority of the cycles, they won't be as likely to get feedback from their users and stakeholders. Afterall, their users have nothing tangible to comment on.
 
 Every day, week, and month that passes without feedback, the probably of deviating from the actual need, and not the stated need, shoots up.
 
 And if the team deviates enough from the actual need, it will be that much hard to self-correct, and therefore to be agile about customer needs.
 
-### How to detect it
+### How to recognize it
 
 Have a list of items open, completed, and demoed. If the number of demoed items is much smaller than the number of open or completed items, you know that either the team is not able to complete work, or not able to demo it.
 
 Either way, you will want to identify this quickly, so you can help the team in case they are deviating too far off the best solution.
 
-### How to avoid it
+### What to do
 
 Schedule demos at the end of each iteration, and insist on demos. Make sure that as a stakeholder of the outcomes of the team, you have had a chance to steer the team towards new needs, give them feedback when necessary.
 
@@ -115,17 +109,15 @@ These changes and suggestions will be small enough that the team can quickly inc
 
 Start a new project with a Sprint Zero. A sprint zero is a preparation sprint, a sprint that is going to be different from the other sprints, where working software is not expected. Instead the team works on infrastructure, design, planning, continuous integration, but no software.
 
-### Why this is fragile
-
 This is not the most fragile of the patterns, and especially if it really is *one* sprint zero. What's more common though, is that one sprint zero turns into 2, then 3, then 5, etc.
 
 In the meantime, there is a lot of infrastructure but very little working software, and more importantly, the opportunity to receive feedback from external stakeholders.
 
-### How to detect it
+### How to recognize it
 
 If there is already a backlog (which is a step in the right direction) but the backlog is very engineering centric, with work items that provide no direct value to anyone outside the team, then you are looking at a sprint zero type of approach.
 
-### How to avoid it
+### What to do
 
 Spend a little more time planning than the it's usual. Pehaps even a day, instead of just an hour or two.
 

@@ -2,7 +2,7 @@
 
 ## No Design
 
-### Misconception
+### Fragile Pattern
 
 Teams new to agile can sometimes believe that in agile there is no need to do any design. System or otherwise.
 
@@ -14,11 +14,11 @@ On an agile team, you are designing when you discuss a feature, you are designin
 
 The misconception is due to the fact that it is not recommended to have a Big Design Up-Front (the notorious BDUF), like in a more predictable approach such as Waterfall.
 
-### Why this is an anti-pattern
-
 When teams assume that they are not supposed to design, the process will devolve into "cowboy coding". A series of hacks until something seems to be working.
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Insist that there is a lot of design, and that many ceremonies and activities are precisely about design.
 
@@ -30,7 +30,7 @@ Everytime the answer to the question "would having more detail now, change the c
 
 ## No Documentation
 
-### Misconception
+### Fragile Pattern
 
 No Documentation is a little bit like No Design, but it goes beyond it. It goes all the way to not documentating code, processes, and anything else that is not considered "working software".
 
@@ -38,13 +38,14 @@ It comes from the idea that if we are not adding direct value to the customer of
 
 Some teams go as far as stopping code comments, or even removing existing and perfectly fine comments, in an attempt to be "more agile".
 
-### Why this is an anti-pattern
-
 This is an anti-pattern because though the code ultimately is the real source of truth, it's not accessible to everyone outside the project, and sometimes not even to the team directly involved.
 
 A new team member would have a hard time coming up to speed if the only documentation available was The Code. It's much more practical to have some level of well maintained documentation to be able to communicate with new members, stakeholders, and everyone else who needs the information.
 
-### How to avoid it
+
+### How to recognize it
+
+### What to do
 
 Avoiding this gotcha requires some common sense at first, and eventually becomes much more natural.
 
@@ -64,13 +65,11 @@ In the end, some documentation is going to be desirable, and healthy, where "non
 
 ## Kanban Is Easy
 
-### Misconception
+### Fragile Pattern
 
 Kanban is a great agile method. As are Scrum, Extreme Programing, and several others. Recently there's been a move from Scrum to Kanban, which is not a bad thing. In fact, when done for the right reasons, it can be a sign of agile maturity.
 
 The important misconception to be aware of, is the notion that Kanban is easiest to implement. It's not. Its simpler set of rules makes it more difficult to get right. A little like a unicycle is hard than bicycle.
-
-### Why this is an anti-pattern
 
 Sometimes what teams like about Kanban is its lack of time-boxed iterations (aka sprints), and several ceremonies that come with Scrum for example.
 
@@ -78,7 +77,9 @@ A telling sign that a team is not going to benefit from Kanban, is when you see 
 
 Thought there is something to be said about the freedom that comes with that approach, the total lack of constraints is rarely benefitial to the budiness and the customers.
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Two simple rules can be leveraged to avoid a poor transition to Kanban.
 
@@ -89,15 +90,13 @@ In addition, ensure that the team has the opportunity to improve their process. 
 
 ## Agile About Agile
 
-### Misconception
+### Fragile Pattern
 
 This is the notion that agile is not agile, which can be true when teams implement agile by following the rituals without concern for the reason for the rituals.
 
 But imagine that instead of picking the word "Agile", the Agile Manifesto luminaries had chosen the word "Flexible", or "Effective", or "Sensical", or any other word that conveyed what they were trying to convey; a focus on common sense and not being so obsessed with rules.
 
 In that case, teams would now be saying "We are flexible about being Flexible", or some other oxymoron.
-
-### Why this is an anti-pattern
 
 Being agile about agile is an anti-pattern because it immediately shows that the team claiming this, has not yet internalized the reasons behind the practices.
 
@@ -109,7 +108,8 @@ They work in time boxed iterations? Let's call it sprints. They have a sole pers
 
 None of this was "invented", simply "observed".
 
-### How to avoid it
+
+### How to recognize it
 
 To avoid the "agile about agile" anti-pattern, while avoiding falling in a dogmatic mindset, there is a simple approach.
 
@@ -127,7 +127,7 @@ You know you need it, it the team decides to tweak the process, and no one asked
 
 ## No Interruptions
 
-### Misconception
+### Fragile Pattern
 
 The notion that when the team is agile, they should never be interrupted comes from a good sentiment, to keep the team as focused as possible. At the same time, if that doesn't feel, well, agile, it's because it's not.
 
@@ -135,13 +135,13 @@ It's a question of degree. Should we allow the team to be bombarded with new req
 
 The truth is somewhere in the middle.
 
-### Why this is an anti-pattern
-
-This is an anti-pattern because at one end, the team is not agile at all, not being flexible about new realities which is the whole point of agile; to be be able to adapt to the real world. If the team cannot do this, perhaps it's an indication of something else going on. Perhaps stories are too big, not enough test? Deployments not frequent enough? Team not working as a team? 
+This is an anti-pattern because at one end, the team is not agile at all, not being flexible about new realities which is the whole point of agile; to be be able to adapt to the real world. If the team cannot do this, perhaps it's an indication of something else going on. Perhaps stories are too big, not enough test? Deployments not frequent enough? Team not working as a team?
 
 But if the team is "too" agile, are they able to be predictable or are they thrashing? Are there signs of burnout?
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Since the truth is somewhere between too agile and too rigid, we need a mechanism to know when we are following rules instead of being adaptable.
 
@@ -153,17 +153,17 @@ This is dramatic enough that often cooler heads prevail and if possible, the new
 
 ## Develop Sprints Then Test Sprints
 
-### Misconception
+### Fragile Pattern
 
 This is when teams alternate development and test sprints. Maybe a sprint or two worth of adding value, followed by a sprint, typically just one, dedicated to test the work that was just completed.
 
 But if work was not tested, was it really completed? The answer is that no, it was not, and the team (and their customers, including the business) benefit from doing less but better, or even from extending the duration of their sprints.
 
-### Why this is an anti-pattern
-
 The goal is to have working software by the end of the sprint, as a mechanism for rapid feedback. If the customer's feedback is that the software is not working, trust will erode, with all the negative consequences.
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Avoid this anti-pattern with two simple techniques.
 
@@ -173,7 +173,7 @@ Avoid this anti-pattern with two simple techniques.
 
 ## No Sprints
 
-### Misconception
+### Fragile Pattern
 
 This anti-pattern is based on Scrum and its sprint practice. Sprints of course, are another name for time-boxed iterations.
 
@@ -183,31 +183,31 @@ And certainly, sometimes that is how sprints are sometimes used, as a management
 
 But sprints provide a real benefit to the team. When there are no sprints, or at least, no real time-boxes, it becomes increasingly difficult to deliver working software in a predictable and regular way.
 
-### Why this is an anti-pattern
-
-This is an anti-pattern because having open-ended delivery dates is an anti-pattern. Even in "real" life this is true. 
+This is an anti-pattern because having open-ended delivery dates is an anti-pattern. Even in "real" life this is true.
 
 Just like we wouldn't want to order a meal at a restaurant and hear that it will take the time it will take, minutes, hours, or days, the business, and the team themselves, should also not be satisfied with the open-endedness of the No Sprints approach.
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Try to start something of value to someone outside the team truly completed and delivered by the time the sprint completes.
 
-It doesn't have to be everything. You can start small. Try a feature or two, from start to finish in a single sprint. Try it for several sprints, see how much better that works. Then try more features, perhaps most of them. 
+It doesn't have to be everything. You can start small. Try a feature or two, from start to finish in a single sprint. Try it for several sprints, see how much better that works. Then try more features, perhaps most of them.
 
 ## Agility Not Agile
 
-### Misconception
+### Fragile Pattern
 
-"Agile is dead, long live agility". 
+"Agile is dead, long live agility".
 
 Clearly this is about mis-application of agile, and how many teams and companies followed the rituals by the book, did not see much improvement, and agreed that the problem is the process, and that the mindset is worth preserving.
 
-### Why this is an anti-pattern
-
 It's just a word. When agility becomes the status quo, we will be looking for yet another word.
 
-### How to avoid it
+### How to recognize it
+
+### What to do
 
 Try to see where the resistance comes from. Since often it's about rituals and dogma, take it as a lighthearted way to say that the core principles are more important than following steps exactly (which is true), have a laugh and move on.
 
@@ -217,7 +217,7 @@ It's important that your team is getting rapid feedback, learning often, and ada
 
 ## Agile Does not Work For My Team Because Of Blank
 
-### Misconception
+### Fragile Pattern
 
 I must admit that this is both the most common misconception about agile, and also the one I enjoy debunking the most. So you could say I'm lucky.
 
@@ -229,13 +229,15 @@ Why would having working software on a cadence, regular feedback from customers,
 
 The reason, once again, is probably because you have seen too many agile projects go fragile by their rigidity. The rituals, once again.
 
-### Why this is an anti-pattern
-
-This sentiment is dangerous because it gives the team a really good reason to not attempt to follow certain practices? 
+This sentiment is dangerous because it gives the team a really good reason to not attempt to follow certain practices?
 
 Agile is difficult to do, it's often counter intuitive, and it certainly requires strong discipline. At least until it becomes second nature to the team.
 
-### How to avoid it
+### How to recognize it
+
+It's simple, team will say something very similar to "Agile is great, but we can't adopt for because of our special circumstances"
+
+### What to do
 
 Don't adopt all the practices at once. For example, start with retrospectives. Can your team benefit from getting together with the stakeholders perhaps once a month, and discuss what we could do better next time, and what we should stop doing?
 
@@ -244,4 +246,3 @@ How about demoing to the rest of the company the worked that got done each month
 How about having a backlog with the work that needs to be done, and having it prioritized so everyone knows what's next.
 
 Do enough of these practices, adopting one at the time, and you will be doing agile, even though the team was convinced that for this type of project, it could not work.
-
