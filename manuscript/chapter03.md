@@ -77,13 +77,32 @@ Ideally, and because no perfect harmony will ever be as good as a single owner, 
 
 This might mean training, culture change more based on trust and experimentation, the scope for the owner (more or fewer teams, depending on the case), and eventually get to the point where the person acting as the Product Owner is empowered to play the role fully.
 
-## POListTaker
+## Product Owner List Taker
 
 ### The fragile pattern
 
+A Product Owner whose tasks are limited at capturing and transcribing requirements from other stakeholders. Sometimes mosly someone with authority, other times this includes everyone who has an idea.
+
+This is a terrible practice for two primary reasons:
+
+* This Product Owner can be easily replaced by a smart automation script, or at the very least by having the requesters enter their own items. This alone should be an indication that the role could and should be extended to something that truly adds value to the team.
+* There is no clear and focused path forward. The Product Backlog becomes a shared to-do list, which has *some* value, but minimal when compared to what it could be if the backlog had a single purpose.
+
 ### How to recognize it
 
+A telltale sign is the lack of epics, or perhaps an explosion of epics. Epics are like mini-projects inside the product. When there aren't any, or too many, it means the product is lacking focus, which could be from having a passive Product Owner, fully dedicated to capturing whatever comes their way.
+
+Another sign is when most of the items are not written by the Product Owner, or at least not endorsed by them (though this is a little more difficult to detect).
+
+Finally, and most dramatically, the Product Owner does not have answers. This Product Owner might have questions, lots of questions, which is a good step forward, but rarely will provide any answers. In fact, the team has learned this, and goes directly to the author of the request, fully bypassing the Product Owner who is really a List Taker.
+
 ### What to do
+
+Give the Product Owner the authority to truly *own* the Product. not just the capturing of the requirements.
+
+This could require training, since Product Owner requires strong Product Management skills, and it that case, make sure to consider it, since the team, and the company, will benefit from a true Product Owner in the long run.
+
+A practical and easier first step, is to require that *all* work items are entered by the Product Owner. This will not fix the problem per se, though it will at least give the Product Owner the visibility they need into what makes the backlog. At least this way the Product Owner will be able to combine similar items, and eliminate contradicting ones.
 
 ## ScrumMasterAsMeetingCoordinator
 
