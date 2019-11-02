@@ -108,9 +108,29 @@ A practical and easier first step, is to require that *all* work items are enter
 
 ### The fragile pattern
 
+Sometimes the person with the ScrumMaster role is nothing but a meeting coordinator. Someone who ensures the meetings are set up, they start and finish on time, and little else.
+
+Though this is, or could be, part of the Scrummaster's tasks, it's a very small part of it, and certainly not the most interesting. 
+
+The more interesting aspects of the role, and the reason why this role is crucial to the success of the team, is manyfold:
+
+- coach for the team
+- guardian of the process and the best practices
+- liaison with the product owner and other stakeholders
+- protector of the team ensuring they can do their best work
+- help translate business asks into technical requrements
+
+Think of the scrum master as a coach for the team, and you can imagine how just having a scrum master take care of meetings, leaves quite a bit of value on the table.
+
 ### How to recognize it
 
+A common sign of this is when the scrum master is rotated automatically, or given to the person on the team, or the most junior. These are all signs that the team sees the role as a necessary evil, and it might as well be shared or given to someone who is not very productive yet.
+
 ### What to do
+
+Give the role to the most productive, most passionate, most senior developer on the team. This is going to be a person who cares about the things that scrum masters care about. Sure, they will need to run those meetings, and that's less interesting, but that would be a small fraction of their contribution.
+
+In this role, the most senior and passionate developer will be tremendously well positioned to influence the team, and raise the bar to their level.
 
 ## ScrumMasterAssigningTasks
 
