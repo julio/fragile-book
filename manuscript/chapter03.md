@@ -136,17 +136,32 @@ In this role, the most senior and passionate developer will be tremendously well
 
 ### The fragile pattern
 
-### How to recognize it
+The Scrum Master assigning tasks either during planning or throughout the spint, is a clear indication that the team is not working in a self organizing way, and are simply waiting to be assigned "tickets".
 
-### What to do
+At this point the team is not mature enough to truly absorb what the product is about and how they, as a team, can work together to accelerate learning, and work on deliverables.
 
-## ScrumMasterDecisionMaker
-
-### The fragile pattern
 
 ### How to recognize it
 
+This is fairly common with junior teams, or teams who are used to a command and control environment, with limited exposure to agile and its self-organization mindset.
+
+The obvious way to detect this is during planning, when the scrum master assigns each ticket to a specific person. Often based on their expertise or their availability.
+
+At that point, there is little incentive for each individual to work as a team and figure out how to tackle the bigger picture, together.
+
+Another sign of this pattern, and in some ways, even more limiting to the teams, is when the individuals ask for a new ticket when they are done with the current one. Instead of starting on the most important ticket following the current one, they pause and ask for work. Another clear sign that the mission and vision of the product, and the goals of the sprint, are not understood.
+
+This is a problem because a healthy agile environment depends on a team that acts as a partner, sometimes even as a "co-founder". A team that clearly understands what is being built, and why.
+
+When the team pauses and asks for more work, it should be the indication that the team is not aware of why they are building what they are building.
+
 ### What to do
+
+A solid strategy is to do nothing. Have the team self-organize and figure out what to do next. If you have a team of professionals you are proud of, this will give them the space they need, to start asking the right questions, and finally truly own the work.
+
+If instead the team stalls and doesn't know what to do, coach them. Ask them what do they think is the most important item to meet the deliverables. Then ask who would like to work on it. It could be one person, or the entire team, it doesn't matter, as long as the work gets done.
+
+Consider letting go and trusting your team. If won't work well right off the bat, but it will eventually, and the product and the team will be better off then.
 
 ## ScrumMasterShuttle
 
