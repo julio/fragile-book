@@ -167,9 +167,25 @@ Consider letting go and trusting your team. If won't work well right off the bat
 
 ### The fragile pattern
 
+There is a famous scene in the movie "Office Space" where Tom Smykowski is trying to justify his job as someone who takes requirements from the customers and gives them to the engineers, because he happens to have people skills.
+
+It's a very funny scene, one that highlights many of the issues that could have been addressed with agile, or common sense in general.
+
+This pattern is similar. Here the scrum master acts as shuttle between the Product Owner and the developers. In a bottleneck fashion.
+
+This scrum master is not helping the teams or the customers make better decisions, and instead, the scrum master is simply acting as the conduit between the stakeholders and the folks making the product.
+
+This is terrible because it adds a significant amount of waste. After all there is a person doing a job that can be better done using at the very least technology, and ideally by having the developers talk to the Product Owner directly. Perhaps during stand-ups, planning, and demos. At the very least.
+
 ### How to recognize it
 
+A common sign is a fairly passive Scrum master. One the represents the stakeholders to the dev team, and not the dev team to the stakeholders.
+
 ### What to do
+
+Perhaps this person was assigned this role temporarily, and they are not passionate about it, or qualified to represent the team. Have a frank conversation, lay out the expectations for this role, and let the person decide if they still want to be the scrum master.
+
+This implies the team is motivated to have a scrum master that acts as a coach and guardian of the best practices, which would help the team more.
 
 ## ScrumMasterProductOwnerManager
 
