@@ -110,7 +110,7 @@ A practical and easier first step, is to require that *all* work items are enter
 
 Sometimes the person with the ScrumMaster role is nothing but a meeting coordinator. Someone who ensures the meetings are set up, they start and finish on time, and little else.
 
-Though this is, or could be, part of the Scrummaster's tasks, it's a very small part of it, and certainly not the most interesting. 
+Though this is, or could be, part of the Scrummaster's tasks, it's a very small part of it, and certainly not the most interesting.
 
 The more interesting aspects of the role, and the reason why this role is crucial to the success of the team, is manyfold:
 
@@ -118,7 +118,7 @@ The more interesting aspects of the role, and the reason why this role is crucia
 - guardian of the process and the best practices
 - liaison with the product owner and other stakeholders
 - protector of the team ensuring they can do their best work
-- help translate business asks into technical requrements
+- help translate business asks into technical requirements
 
 Think of the scrum master as a coach for the team, and you can imagine how just having a scrum master take care of meetings, leaves quite a bit of value on the table.
 
@@ -191,9 +191,39 @@ This implies the team is motivated to have a scrum master that acts as a coach a
 
 ### The fragile pattern
 
+When the Scrum Master is also the Product Owner.
+
+This looks like an effective way of leveraging the resources available, which is what makes it so compelling. It's difficult to imagine all the waste it's creating since it's designed to do just the opposite, eliminate waste. Ot so it seems.
+
+If we summarize the role of a Scrum Master to just a single focus, and do the same with the Product Owner, the fragile pattern becomes more apparent.
+
+The focus of the Product Owner is to extract from the team the highest amount of value, in the shortest amount of time. In other words, "quantity first".
+
+The focus of the Scrum Master is to help the team be as efficient as possible, keep focus and sound engineering practices high. In other words, "quality first".
+
+Quantity vs. Quality. These two are often at odds, and having a healthy balance between the two is one of the engines that make agile work.
+
+When the same person is behind the decisions to drive both quality and quantity, the balance is lost and inevitably the product will slowly shift towards one of the two.
+
+This the same reason why most successful companies have a person responsible for engineering, and a different person responsible for product. It's not just a bandwidth or skill constraint. It's primarily to keep the balance.
+
+When this happens it's sometimes the engineering manager who plays those two roles, and now we have an additional problem. The person responsible for the product, is also responsible for engineering, and also for the people's careers. A dangerous combination that prevents agile from really taking off and providing the value that it could.
+
 ### How to recognize it
 
+The team has no dedicated Product Owner separate from the Scrum Master. Everyone one the team knows who decides "what to build", and "how to build it". It's the same individual.
+
+There will be no mystery on who is who.
+
 ### What to do
+
+Start by cleaningly separate the what, from the why, from the who, from the how. Once that's done, assign owners of what and why, distinct from who and how.
+
+What and Why are a business concern, and therefore fall on the Product Owner. Whereas Who and How are technical responsibilities that fall on the team and the Scrum Master.
+
+This mindset will accelerate faster if the team, and indeed the Scrum Master both get in the habit of asking "what and why" questions of the work being asked of them.
+
+See: Theory of Constraints, Bills of Rights.
 
 ## OverworkedTeam
 
