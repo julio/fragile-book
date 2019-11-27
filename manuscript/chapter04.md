@@ -1,15 +1,15 @@
 # Estimation
 
-## PointsAsUnitsOfTime
+## Points As Units Of Time
 
-## ThreePointsIsLikeTowDays
+## Three Points Is Like Two Days
 
-## EstimatesConvertToThree
+## Estimates Convert To Three
 
-## CompareVelocityBetweenTeams
+## Compare Velocity Between Teams
 
-## MeasureVelocityDownToTheIndividual
+## Measure Velocity Down To The Individual
 
-## EstimatesAreCommittments
+## Estimates Are Committments
 
 ## GanttChart

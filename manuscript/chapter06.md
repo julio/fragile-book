@@ -1,47 +1,62 @@
 # Working Software
 
-## NoWorkingSoftwareInSprint
+## No Working Software In Sprint
 
-## SprintsAsPhases
+## Sprints As Phases
 
-## CliffBurningDown
+## Cliff Burndown Chart
 
 ## MultiThread
 
-## MiniWaterfall
+## Mini Waterfall
 
-## OnlyInternalCustomers
+## Only Internal Customers
 
-## LegacyCode
+internal to the team
 
-## LongReleaseCycles
+## Legacy Code
 
-## SlowResponse
+???
 
-## StaticDefinitionOfDone
+## Long Release Cycles
 
-## HIPSprints
+## Slow Response
 
-## MakeItPerfectTheFirstTime
+???
+not talking to other teams?
 
-## RequirementsKeepChanging
+## Static Definition Of Done
 
-## NinetyPercentDone
+not huge
 
-## SplitUnfinishedWorkForCredit
+## HIP Sprints
 
-## MultiTaskingToGoFaster
+## Make It Perfect The First Time
 
-## DelayedBugFixing
+## Requirements Keep Changing
 
-## WorkingTooHardMakesMoreWork
+## Our Requirements Never Change
 
-## INeedAHero
+## Ninety Percent Done
 
-## NoDeploymentOnFridays
+## Split Unfinished-Work For Credit
 
-## ThrowOverTheWallMyPart
+## MultiTasking To Go Faster
 
-## WeDoNotKnowWhoOurCustomersAre
+## Delayed Bug Fixing
 
-## OurCustomersDoNotCare
+## Working Too Hard Adds More Value
+
+## I Need A Hero
+
+- heroics
+
+## No Deployment On Fridays
+
+## Throw MyPart Over The Wall
+
+## We Do Not Know Who Our Customers Are
+
+## Our Customers Do Not Care
+
+## "MVP"

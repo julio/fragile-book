@@ -1,17 +1,21 @@
 # Artifacts
 
-## OpaqueProductBacklog
+## Opaque Product Backlog
 
-## HiddenProductBacklog
+## Hidden Product Backlog
 
-## DisguisedEngineeringTasks
+## Disguised Engineering Tasks
 
-## UngroomedProductBacklog
+## Ungroomed Product Backlog
 
-## OneDefinitionOfDonePerStory
+## One Definition-Of-Done Per Story
 
-## DefinitionOfDonePerPhase
+## Definition-Of-Done Per Phase
 
-## SharedToDoList
+Close to waterfall phases
 
-## BacklogOrderedByTaskNotValue
+## Shared To Do List
+
+## Backlog Ordered By Task Not Value
+
+## Acceptance Criteria as Definition of Done

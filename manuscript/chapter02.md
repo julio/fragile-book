@@ -16,19 +16,19 @@ Instead of a team of 6 people (for example), where when one person is in trouble
 
 ### How to recognize it
 
+### What to do
+
 Keep the stand-ups focused. No more than a minute per person. Ensure that everyone now knows what everyone else's challenges are, let them organize their day based on the new information, and reassess the next day.
 
 Since standing up for long periods of time no longer hurts in this era of height-adjustable desks, try something different. Whomever speaks stands on one foot for example. Or have the stand-up in the parking lot during winter time. In other words, give the team an incentive to stay focused, yet informative.
-
-### What to do
 
 ## Report Status Standup
 
 ### Fragile Pattern
 
-Where the daily standup (sometimes also known as "the daily scrum") becomes nothing but a status report. In this scenarion, each person indicates how busy they have been and how busy they plan on being today. This is not very interesting to the other team members, even though it might be interesting to a manager, especially a micro-manager.
+Where the daily standup (sometimes also known as "the daily scrum") becomes nothing but a status report. In this scenario, each person indicates how busy they have been and how busy they plan on being today. This is not very interesting to the other team members, even though it might be interesting to a manager, especially a micro-manager.
 
-A much better day for the daily standup is daily scrum. The latter is a better name because the purpose of the meeting is right there in the name, daily, and scrum.
+A much better name for the daily standup is daily scrum. The latter is a better name because the purpose of the meeting is right there in the name, daily, and scrum.
 
 Daily is self-explanatory, and scrum will feel more familiar to rugby fans. A (rugby) scrum is a way to restart the game after a minor infrigement.
 

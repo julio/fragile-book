@@ -1,6 +1,6 @@
 # Roles
 
-## NoPO
+## No PO
 
 ### The fragile pattern
 
@@ -23,7 +23,7 @@ At the very least nominate one of the team members as the Product Owner, with ev
 
 Ideally have someone who is a Product Manager already to play the role of the Product Owner.
 
-## ManyPOs
+## Many POs
 
 ### The pattern
 
@@ -47,7 +47,7 @@ The "new" Product Owner should be empowered to make the right calls, either on t
 
 See also #ProxyPO, #NoPO
 
-## ProxyPO
+## Proxy PO
 
 ### The fragile pattern
 
@@ -104,7 +104,7 @@ This could require training, since Product Owner requires strong Product Managem
 
 A practical and easier first step, is to require that *all* work items are entered by the Product Owner. This will not fix the problem per se, though it will at least give the Product Owner the visibility they need into what makes the backlog. At least this way the Product Owner will be able to combine similar items, and eliminate contradicting ones.
 
-## ScrumMasterAsMeetingCoordinator
+## Scrum Master As Meeting Coordinator
 
 ### The fragile pattern
 
@@ -132,7 +132,7 @@ Give the role to the most productive, most passionate, most senior developer on 
 
 In this role, the most senior and passionate developer will be tremendously well positioned to influence the team, and raise the bar to their level.
 
-## ScrumMasterAssigningTasks
+## Scrum Master Assigning Tasks
 
 ### The fragile pattern
 
@@ -163,7 +163,7 @@ If instead the team stalls and doesn't know what to do, coach them. Ask them wha
 
 Consider letting go and trusting your team. If won't work well right off the bat, but it will eventually, and the product and the team will be better off then.
 
-## ScrumMasterShuttle
+## Scrum Master Shuttle
 
 ### The fragile pattern
 
@@ -187,7 +187,7 @@ Perhaps this person was assigned this role temporarily, and they are not passion
 
 This implies the team is motivated to have a scrum master that acts as a coach and guardian of the best practices, which would help the team more.
 
-## ScrumMasterProductOwnerManager
+## Scrum Master/Product Owner/Manager
 
 ### The fragile pattern
 
@@ -225,7 +225,7 @@ This mindset will accelerate faster if the team, and indeed the Scrum Master bot
 
 See: Theory of Constraints, Bills of Rights.
 
-## OverworkedTeam
+## **Overworked Dev Team**
 
 ### The fragile pattern
 
@@ -233,7 +233,7 @@ See: Theory of Constraints, Bills of Rights.
 
 ### What to do
 
-## GroupOfPeopleNotTeam
+## Group Of People Not Team
 
 ### The fragile pattern
 
@@ -241,7 +241,7 @@ See: Theory of Constraints, Bills of Rights.
 
 ### What to do
 
-## ScrumMasteringIsBoring
+## Scrum Mastering Is Boring
 
 ### The fragile pattern
 
@@ -249,7 +249,7 @@ See: Theory of Constraints, Bills of Rights.
 
 ### What to do
 
-## AssignedWork
+## Assigned Work
 
 ### The fragile pattern
 
@@ -257,7 +257,7 @@ See: Theory of Constraints, Bills of Rights.
 
 ### What to do
 
-## ProductOwnerAsBabySitter
+## Product Owner As BabySitter
 
 ### The fragile pattern
 
@@ -272,3 +272,6 @@ See: Theory of Constraints, Bills of Rights.
 ### How to recognize it
 
 ### What to do
+
+
+## Scrum Master Rotation
