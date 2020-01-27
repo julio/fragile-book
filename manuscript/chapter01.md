@@ -30,22 +30,59 @@ Everytime the answer to the question "would having more detail now, change the c
 
 ## No Documentation
 
+## No Documentation
+
 ### Fragile Pattern
 
-No Documentation is a little bit like No Design, but it goes beyond it. It goes all the way to not documentating code, processes, and anything else that is not considered "working software".
+Also known as "with agile, there is no need to waste time with documentation!"
 
-It comes from the idea that if we are not adding direct value to the customer of hte software, then we should not be working on it.
+No Documentation can take different forms. Sometimes it means "no need to system design", and it can go all the way to  "no need to document anything".
+
+Teams have read and discussed the Agile Manifesto, they took working software to heart, and decide that documentation is wasteful, since customers don't recognize its value.
 
 Some teams go as far as stopping code comments, or even removing existing and perfectly fine comments, in an attempt to be "more agile".
 
-This is an anti-pattern because though the code ultimately is the real source of truth, it's not accessible to everyone outside the project, and sometimes not even to the team directly involved.
+This is an anti-pattern. because frankly, absolutes are often an anti-pattern, especially when it comes to being agile.
 
-A new team member would have a hard time coming up to speed if the only documentation available was The Code. It's much more practical to have some level of well maintained documentation to be able to communicate with new members, stakeholders, and everyone else who needs the information.
+"Working software over comprehensive documentation" indicates we should always prefer the former over the latter, but not eliminate the latter. In fact, per the Agile Manifesto:
 
+> ...while there is value in the items on the right, we value the items on the left more.
 
-### How to recognize it
+So there is value in the items on the right, and not having that documentation leaves value on the table.
+
+What value?
+
+For example, a new team member would have a hard time coming up to speed if the only documentation available was /The Code/. We all have been there. We join a new team, ask how things work, and are pointed to the code.
+
+Yes, it is the primary source of truth, but for most of us, still less approachable than an architecture diagram, or a few sentences about what we are trying to accomplish and how.
+
+In an effort to eliminate waste by focusing on working software, we wind up adding a different a bigger type of waste by making it harder to understand the systems we have built.
 
 ### What to do
+
+Avoiding this gotcha requires some common sense at first, and eventually becomes much more natural.
+
+When starting on documentation, ask yourself if this information can be found somewhere else if so, can we point to it instead? This saves time, and even more importantly, avoids information divergence, where both sources gradually change from each other, sometimes to the point of contradicting each other.
+
+Another technique, more specific to code documentation in the form of comments, is to consider making the code self-documenting.
+
+For example, rather than (the cliché):
+
+```
+var n; // number of users
+```
+
+consider having:
+
+```
+var number_of_users;
+```
+
+This is clearly contrived and simplistic example, simply designed to illustrate the idea.
+
+In the end, some documentation is going to be desirable, and healthy, where "none" is almost always wrong, and "too much" is hard to gauge.
+
+Use your best judgment, and if the team is starting to have tasks or user stories solely devoted to documentation, you will know that you have wandered too far.
 
 Avoiding this gotcha requires some common sense at first, and eventually becomes much more natural.
 
